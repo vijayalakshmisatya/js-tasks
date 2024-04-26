@@ -1,0 +1,6 @@
+function areaofrectangle(a,b) {
+    return a*b
+}
+
+let area = areaofrectangle(12,13);
+console.log("area of rectangle is " + area)
