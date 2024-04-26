@@ -1,1 +1,8 @@
+function greet(name) {
+    return 'hello ' + name + ' !'
+}
+
+let s = greet('satya')
+console.log(s)
+
 
